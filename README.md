@@ -65,7 +65,7 @@ For development with `tsx`:
 | 8 | [Export Artifacts](examples/demo8-export-artifacts/) | Platform | `demo8_export_report`, `demo8_list_exports` | - |
 
 ## Runbooks
-
+- [ShowRun All Demos](docs/showrun.md) - All Demos Walkthrough Script
 - [5-Minute Runbook](docs/5-minute-runbook.md) - Quick highlights (Demos 1, 2, 3, 4, 6, 8)
 - [15-Minute Runbook](docs/15-minute-runbook.md) - Full walkthrough with stage timing for all 8 demos
 
