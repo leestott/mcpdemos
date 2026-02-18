@@ -1,0 +1,11 @@
+{
+  "mcp": {
+    "servers": {
+      "mcpdemos": {
+        "command": "npx",
+        "args": ["tsx", "src/index.ts"],
+        "cwd": "${workspaceFolder}"
+      }
+    }
+  }
+}
